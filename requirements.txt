@@ -1,0 +1,5 @@
+requests
+faker
+colorama
+tls_client
+typing_exstensions
