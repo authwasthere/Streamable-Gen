@@ -9,6 +9,9 @@ Contact me for any help on:
  - Telegram: t.me/zenithail
  - Discord: zenithail#0000
 
+## Credits
+Thanks to `blackwoole` for source.
+
 ## Installation
 
 Install Streamable Gen with Python 3
